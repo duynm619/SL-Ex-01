@@ -1,2 +1,2 @@
-week 1 ex
-open file Statistical Learning Exercise.ipynb inside floder
+Statistical Learning Exercise per week
+open file ipynb inside each floder
